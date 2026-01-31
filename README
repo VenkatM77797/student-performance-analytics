@@ -9,7 +9,7 @@ It validates assessment scores to ensure data quality and generates basic insigh
 ## 🛠️ Technologies Used
 - Python
 - pandas
-- CSV data files
+- CSV data file
 - VS Code
 
 ---
@@ -68,6 +68,7 @@ python check_invalid_marks.py
 Venkat Mandarapu
 
 LinkedIn: https://www.linkedin.com/in/venkat-mandarapu/
+
 
 
 
