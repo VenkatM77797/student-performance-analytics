@@ -1,6 +1,6 @@
-# Student Performance Data Validation and Analysis
+Student Performance Data Validation and Analysis
 
-## 📌 Project Overview
+## Project Overview
 This project analyzes student performance data using Python and pandas.  
 It validates assessment scores to ensure data quality and generates basic insights such as subject-wise average scores and pass/fail counts.
 
@@ -68,6 +68,7 @@ python check_invalid_marks.py
 Venkat Mandarapu
 
 LinkedIn: https://www.linkedin.com/in/venkat-mandarapu/
+
 
 
 
