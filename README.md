@@ -6,7 +6,7 @@ It validates assessment scores to ensure data quality and generates basic insigh
 
 ---
 ## Tech Stack 
-<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/CSV-Data%20File-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> 
+![Python]<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/CSV-Data%20File-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> 
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 
 ---
@@ -70,6 +70,7 @@ python check_invalid_marks.py
 Venkat Mandarapu
 
 LinkedIn: https://www.linkedin.com/in/venkat-mandarapu/
+
 
 
 
