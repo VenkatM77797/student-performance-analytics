@@ -6,10 +6,8 @@ It validates assessment scores to ensure data quality and generates basic insigh
 
 ---
 Tech Stack 
-- Python
-- pandas
-- CSV data file
-- VS Code
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/CSV-Data%20File-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> 
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 
 ---
 
@@ -53,22 +51,26 @@ The script prints:
 ```
 
 2. Navigate to the project folder:
-
+``` bash
 cd student-performance-analytics
+```
 
 3. Install dependencies:
-
+``` bash
 python -m pip install pandas
+```
 
 4. Run the script:
-
+``` bash
 python check_invalid_marks.py
+```
 
 👤 Author
 
 Venkat Mandarapu
 
 LinkedIn: https://www.linkedin.com/in/venkat-mandarapu/
+
 
 
 
