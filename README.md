@@ -47,7 +47,7 @@ The script prints:
 
 1. Clone the repository:
 ``` bash
-   git clone https://github.com/VenkatM77797/student-performance-analytics
+git clone https://github.com/VenkatM77797/student-performance-analytics
 ```
 
 2. Navigate to the project folder:
@@ -70,6 +70,7 @@ python check_invalid_marks.py
 Venkat Mandarapu
 
 LinkedIn: https://www.linkedin.com/in/venkat-mandarapu/
+
 
 
 
