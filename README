@@ -1,12 +1,11 @@
-Student Performance Data Validation and Analysis
+# Student Performance Data Validation and Analysis
 
 ## Project Overview
 This project analyzes student performance data using Python and pandas.  
 It validates assessment scores to ensure data quality and generates basic insights such as subject-wise average scores and pass/fail counts.
 
 ---
-
-## 🛠️ Technologies Used
+Tech Stack 
 - Python
 - pandas
 - CSV data file
@@ -49,7 +48,9 @@ The script prints:
 ## ▶️ How to Run the Project
 
 1. Clone the repository:
+``` bash
    git clone https://github.com/VenkatM77797/student-performance-analytics
+```
 
 2. Navigate to the project folder:
 
@@ -68,6 +69,7 @@ python check_invalid_marks.py
 Venkat Mandarapu
 
 LinkedIn: https://www.linkedin.com/in/venkat-mandarapu/
+
 
 
 
