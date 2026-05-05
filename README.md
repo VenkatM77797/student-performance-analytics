@@ -3,7 +3,7 @@
 ## Project Overview
 This project analyzes student performance data using Python and pandas.  
 It validates assessment scores to ensure data quality and generates basic insights such as subject-wise average scores and pass/fail counts.
-vdzcdcv
+cdzvdzgvdzcdcv
 ---
 ## Tech Stack 
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![CSV](https://img.shields.io/badge/CSV-Data%20File-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
